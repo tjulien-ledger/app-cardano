@@ -15,7 +15,7 @@
 #  limitations under the License.
 #*******************************************************************************
 
-APPNAME      = "Cardano ADA"
+APPNAME      = "Cardano Babbage"
 APPVERSION_M = 5
 APPVERSION_N = 0
 APPVERSION_P = 0
