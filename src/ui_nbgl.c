@@ -573,7 +573,9 @@ void set_light_confirmation(bool needed) {
 
 void ui_idle(void) {
   currentInstruction = INS_NONE;
-  ui_idle_flow();
 }
 
+void ui_home(void) {
+  ui_idle_flow();
+}
 #endif // HAVE_NBGL
